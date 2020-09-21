@@ -4,6 +4,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 >>> 
 >>> print ("Hello World!")
->>># will print Hello World!
 Hello World!
 >>> 
